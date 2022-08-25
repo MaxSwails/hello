@@ -1,9 +1,9 @@
 /**
  * Author: Max Swails
  *         mswails@unomaha.edu
- * Date: 2022/08/29
+ * Date: 2022/08/223
  *
- * A Hello Program that prints my name
+ * A simple hello world program in C
  *
  */
 #include <stdlib.h>
@@ -12,7 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
-  printf("My name is Max Swails\n");
+  printf("My name is Max Swailsll\n");
 
   return 0;
 }
